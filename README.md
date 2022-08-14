@@ -1,3 +1,6 @@
 # visualise a data annotation 
 
-import a video capture a frame from the video and visualise data points from a csv file 
+* [x] import a video 
+* [x] capture a frame from the video 
+* [x] import data points from a csv file 
+* [x] visualise data points 
